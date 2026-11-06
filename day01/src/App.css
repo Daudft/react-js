@@ -182,3 +182,9 @@
     border-right-color: var(--border);
   }
 }
+
+
+button{
+  padding: 7px 30px;
+  background-color: red;
+}
